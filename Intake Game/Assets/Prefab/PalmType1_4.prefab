@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 467404}
   - component: {fileID: 3388552}
   - component: {fileID: 2349124}
-  - component: {fileID: 3178505717632873255}
+  - component: {fileID: 7335988075363299073}
   m_Layer: 0
   m_Name: PalmType1_4
   m_TagString: Untagged
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 05244cd1770371546991e982a45ce03e, type: 2}
+  - {fileID: 2100000, guid: b18275522140ed14c8ffeac42becd6fd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!205 &3178505717632873255
+--- !u!205 &7335988075363299073
 LODGroup:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,8 +92,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 133486}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: -0.23004413, y: 3.1261625, z: 0.18671513}
-  m_Size: 6.2523804
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
@@ -106,7 +106,7 @@ LODGroup:
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2349124}
-  - screenRelativeHeight: 0.1
+  - screenRelativeHeight: 0.008963731
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2349124}
