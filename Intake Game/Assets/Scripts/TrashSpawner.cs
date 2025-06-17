@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class TrashSpawner : MonoBehaviour
 {
-    [SerializeField] int MaxTrash;
+    public int MaxTrash;
     [SerializeField] int SpawnMinDistance = 75;
     [SerializeField] int SpawnMaxDistance = 150;
 

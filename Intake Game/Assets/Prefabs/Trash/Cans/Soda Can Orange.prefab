@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: -192665788361841660}
   m_Layer: 0
   m_Name: Soda Can Orange
-  m_TagString: Untagged
+  m_TagString: Trash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

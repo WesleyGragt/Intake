@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -2508741527025696904}
   m_Layer: 0
   m_Name: Mug White
-  m_TagString: Untagged
+  m_TagString: Trash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

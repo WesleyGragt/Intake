@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7384885766146472034}
   m_Layer: 0
   m_Name: Beer Can Green Crushed
-  m_TagString: Untagged
+  m_TagString: Trash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 5367294210633962513}
   m_Layer: 0
   m_Name: Wine Bottle Green with Label
-  m_TagString: Untagged
+  m_TagString: Trash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
